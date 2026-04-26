@@ -1,16 +1,16 @@
-## Hi there 👋
+# Default Homepage (Base Template)
 
-<!--
-**Wanggyeonghwan/Wanggyeonghwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+이 프로젝트는 **기본 홈페이지 템플릿**입니다.
 
-Here are some ideas to get you started:
+## 현재 포함 기능
+- 반응형 기본 랜딩 레이아웃
+- 로그인/회원가입 버튼(이벤트 분리)
+- 향후 인증/대시보드 확장을 위한 섹션 구조
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 다음 단계 제안
+1. 로그인/회원가입 API 연동
+2. 사용자 세션 저장(localStorage 또는 쿠키/토큰)
+3. 인증 상태 기반 라우팅/메뉴 분기
+
+## 실행
+정적 파일 프로젝트이므로 `index.html`을 브라우저에서 바로 열어 확인할 수 있습니다.
